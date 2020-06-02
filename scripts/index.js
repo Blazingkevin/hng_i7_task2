@@ -1,0 +1,1 @@
+console.log("Hello World, this is [Kevin Uti] with HNGi7 ID [Balzingkevin] using [javascript] for task 2");
